@@ -30,9 +30,9 @@ Me gusta crear soluciones reales y funcionales, con buenas prácticas y organiza
 
 ## 📫 Cómo contactarme
 
-- 📧 **Correo:** tu-correo-aquí@example.com  
-- 💼 **LinkedIn:** [Mi LinkedIn](https://www.linkedin.com/)  
-- 🐱 **GitHub:** [Mi GitHub](https://github.com/tu-usuario-aqui)
+- 📧 **Correo:** bryan050613@gmail.com 
+- 💼 **LinkedIn:** [Mi LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/bryan-fern%C3%A1ndez-73ab5a38a/))  
+- 🐱 **GitHub:** [Mi GitHub]([https://github.com/tu-usuario-aqui](https://github.com/BryanD3v))
 
 ---
 
